@@ -1,0 +1,23 @@
+{
+  "name": "pwa-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zhongds/pwa-demo.git",
+  "author": "钟杜生 <zhongdusheng@xunlei.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "watch": "parcel watch index.html"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-proposal-class-properties": "^7.4.4",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-react": "^7.0.0",
+    "parcel-bundler": "^1.12.3"
+  },
+  "dependencies": {
+    "preact": "^8.4.2"
+  }
+}
