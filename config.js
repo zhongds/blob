@@ -1,0 +1,5 @@
+export const PROJECT_ID = "2s2qhm44ffu240yhwwz"
+export const CLIENT_ID = "XRB4fRqKRLBWCqvq"
+export const USER_NAME = "test@example.com"
+export const PASSWORD = "qwe123"
+export const DB_NAME = "todolist"
